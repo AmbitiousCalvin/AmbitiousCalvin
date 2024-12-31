@@ -3,10 +3,8 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ### 🌟 About Me:
-- **Name:** Huuman  
-- **Age:** 15 years old  
-- **Education:** Grade 7 student  
-- **School:** No. 2 Basic Education High School, Lanmadaw  
+- **Name:** Calvin  
+- **Age:** 16 years old  
 - **Pronouns:** He/Him  
 
 ### 💻 Current Focus:
