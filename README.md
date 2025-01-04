@@ -1,38 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I’m Calvin  
 
-Welcome to my GitHub profile! Here's a little about me:
-
-### 🌟 About Me:
-- **Name:** Calvin  
-- **Age:** 16 years old  
-- **Pronouns:** He/Him  
-
-### 💻 Current Focus:
-- 🔭 I’m currently working on becoming an **entry-level front-end developer** within 1 year.  
-- 📚 I’m also exploring **React**, **Tailwind CSS**, and building exciting projects like a **photo app using the Pexels API** and an **Receipe app with api**.  
-
-### 📜 Projects:
-- 🚀 Did a basic toDo App, with React to get my foundation
-- ✨ Future plans include using **Tailwind CSS** for styling and improving my knowledge mainly in **React** and **Javascript**.
-
-### ✍️ Interests:
-- 📖 My favorite hobby is **learning**, and I can't stand if I am not doing something at present.
-- My 2nd favourite hobby is coding (doing projects)
-- 🎨 I also love **drawing portraits and landscapes**.  
-- 🚴‍♂️ I like **cycling**
-- 
-### 🎓 Other Skills:
-- I’m studying **French** and working towards an **A2 level proficiency**.  
-- I aim to improve my **English speaking skills**, including thinking and responding fluently in English.  
-
-### 🏆 Achievements:
--  I achieved my goal in learning the fundamentals of html, css and javascript in 3months.
-
-### 🌍 Fun Facts:
-- I usually spend almost all of my free time learning coding such as doing projects on freeCodeCamp or just for fun.
-
-### 📫 How to Reach Me:
-Feel free to reach out if you'd like to collaborate, discuss coding, or just have a chat!  
-
+### 🌟 About Me  
+- **Name:** Calvin | **Pronouns:** He/Him  
+- 16 years old, on a journey to become a front-end developer.  
+- 🎯 Goal: Land an entry-level dev role within a year.  
 
 ---
+
+### 💻 What I’m Working On  
+- 🔭 Learning **React**, **Tailwind CSS**, and building cool projects:  
+  - A **photo app** with the Pexels API.  
+  - A **recipe app** using APIs.  
+- ✅ Completed a **To-Do App** to sharpen React fundamentals.  
+
+---
+
+### ✨ Interests  
+- 💻 Coding and building projects (best way to learn!).  
+- 🎨 Drawing portraits and landscapes.  
+- 🚴‍♂️ Cycling for a change of pace.  
+- 📚 Learning French (aiming for A2 level) and improving my English.  
+
+---
+
+### 🏆 Achievements  
+- 🚀 Mastered HTML, CSS, and JavaScript fundamentals in 3 months.  
+
+---
+
+### 📫 Let’s Connect  
+Open to collaborations, coding discussions, or sharing ideas!  
