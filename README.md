@@ -10,7 +10,7 @@
 ### 💻 What I’m Working On  
 - 🔭 Learning **React**, **Tailwind CSS**, and building cool projects
 - ✅ Completed a **To-Do App** to sharpen React fundamentals.
-- ✅ Completed a **Photo Website App** to learn about React Routers, useContext, useMemo and useLocaton.
+- ✅ Completed a **Photo Website App** 
 
 ---
 
