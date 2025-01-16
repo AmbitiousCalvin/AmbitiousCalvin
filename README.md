@@ -17,8 +17,6 @@
 ### ✨ Interests  
 - 💻 Coding and building projects (best way to learn!).  
 - 🎨 Drawing portraits and landscapes. 
-- 📚 Learning French (aiming for A2 level) and improving my English.  
-
 ---
 
 ### 🏆 Achievements  
